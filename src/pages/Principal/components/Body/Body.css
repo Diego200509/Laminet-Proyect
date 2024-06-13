@@ -1,0 +1,19 @@
+.body {
+  background: rgb(0,0,0);
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
+.izquierda{
+  display: block;
+  width: 60vw;
+}
+.derecha{
+  margin: auto;
+}
+
+.img-fondo{
+  height: 70%;
+  width: 50%;
+  transform: scaleX(-1);
+}
